@@ -1,3 +1,4 @@
 *.pdf
 octave-workspace/
 octave-workspace
+*.swp
